@@ -10,7 +10,7 @@ This is the documentation for PAYMENT & SERVICE SOUNDBOX.
 ### List Docs API Payment & Service  
 
 #### 1.0 Set Up Frappe Dahulu 
-- [**1.1 Buat Site Baru**](#1.1-Buat-Site-Baru)
+- [**1.1 Buat Site Baru**](#11-Buat-Site-Baru)
 - **1.2 Install App baru**
 - **1.3 Install APP ke Site**
 - **1.4 Pastikan app sudah terinstall di site**
