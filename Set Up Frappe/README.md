@@ -1,7 +1,3 @@
-
-## Introduction
-This is the documentation for PAYMENT & SERVICE SOUNDBOX.
-
 # List Docs
 
 ### List Docs API Payment & Service  
