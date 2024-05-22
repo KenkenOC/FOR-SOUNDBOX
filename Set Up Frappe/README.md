@@ -120,10 +120,6 @@ Save
 
 Permission Rules > Add Row
 
-
-![role](https://github.com/Akiyaaaaaa/frappe/wiki/image/Build-Custom-Rest-HTTP-API/1710890503608.png)
-
-
 ![role](https://github.com/Akiyaaaaaa/frappe/wiki/image/Build-Custom-Rest-HTTP-API/1710890535525.png)
 
 Save
