@@ -7,8 +7,8 @@
 - [**1.2 Menginstal Aplikasi ke Situs**](#12-Menginstal-Aplikasi-ke-Situs)
 - [**1.3 Memastikan Aplikasi Terinstal di Situs**](#13-Memastikan-Aplikasi-Terinstal-di-Situs)
 
-### 2.0 Membuat DocType yang Diperlukan untuk Service
-- **2.1 Membuat DocType**
+### [2.0 Membuat DocType yang Diperlukan untuk Service](#20-Membuat-DocType-yang-Diperlukan-untuk-Service)
+- [**2.1 Membuat DocType**](#21-Membuat-DocType)
 
 ### 3.0 Membuka VS Code di Dalam Aplikasi
 - **3.1 Membuka VS Code di Dalam Aplikasi**
