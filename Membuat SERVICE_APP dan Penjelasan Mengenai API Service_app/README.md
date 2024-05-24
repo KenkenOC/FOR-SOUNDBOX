@@ -103,7 +103,8 @@ Untuk panduan membuka Vscode di dalam Aplikasi, silahkan lihat di [Membuka Vscod
 
 ### 5.0 Penjelasan Mengenai File API Service_app
 #### 5.1 Service 
-**Catatan:** *Pastikan Frappe sudah terinstal dan siap digunakan. Jika belum, silakan kunjungi panduan kami di [Set Up Frappe]
+**Catatan:** *Untuk melihat Code dari service.py, silakan lihat di [service_app](https://github.com/KenkenOC/FOR-SOUNDBOX/tree/main/service_app/service_app/service).*
+
 Di dalam File `Service.py` ada beberapa Def yang memiliki fungsi fungsi yang berbeda 
 
 - def `get_token()`
