@@ -1,5 +1,6 @@
 ## Service
-***!Pastikan Frappe Sudah Terinstall dan Sudah siap digunakan jika belum bisa kunjungi [Set Up Frappe]()
+***!Pastikan Frappe Sudah Terinstall dan Sudah siap digunakan jika belum bisa kunjungi [Set Up Frappe](https://github.com/KenkenOC/FOR-SOUNDBOX/tree/main/Set%20Up%20Frappe)**
+
 ### 1.0 Membuat App & Site baru untuk Service
 - **1.1 Membuat App & Site baru untuk Service**
 - **1.2 Install App ke Site**
