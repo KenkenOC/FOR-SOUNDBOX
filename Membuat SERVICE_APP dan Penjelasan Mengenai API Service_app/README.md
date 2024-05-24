@@ -103,6 +103,7 @@ Untuk panduan membuka Vscode di dalam Aplikasi, silahkan lihat di [Membuka Vscod
 
 ### 5.0 Penjelasan Mengenai File API Service_app
 #### 5.1 Service 
+**Catatan:** *Pastikan Frappe sudah terinstal dan siap digunakan. Jika belum, silakan kunjungi panduan kami di [Set Up Frappe]
 Di dalam File `Service.py` ada beberapa Def yang memiliki fungsi fungsi yang berbeda 
 
 - def `get_token()`
