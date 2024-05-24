@@ -81,3 +81,7 @@ Jika tampilannya seperti ini, berarti aplikasi `service` sudah terinstal di situ
 
 #### 2.1 Membuat DocType
 Untuk panduan membuat DocType, silakan lihat di [Set Up Frappe](https://github.com/KenkenOC/FOR-SOUNDBOX/tree/main/Set%20Up%20Frappe).
+
+### 3.0 Membuka VS Code di Dalam Aplikasi
+#### 3.1 Membuka VS Code di Dalam Aplikasi
+Untuk panduan membuka Vscode di dalam Aplikasi, silahkan lihat di [Membuka Vscode ke dalam Apps](https://github.com/KenkenOC/FOR-SOUNDBOX/tree/main/Membuka%20Vscode%20ke%20dalam%20Apps)
