@@ -10,7 +10,7 @@
 - [**1.3 Memastikan Aplikasi Terinstal di Situs**](#13-Memastikan-Aplikasi-Terinstal-di-Situs)
 
 
-### [2.0 Membuat DocType yang Diperlukan untuk Service](#20-Membuat-DocType-yang-Diperlukan-untuk-Service)
+### [2.0 Membuat DocType yang Diperlukan untuk Service](#20-membuat-doctype-yang-diperlukan-untuk-service-1)
 
 - [**2.1 Membuat DocType**](#21-Membuat-DocType)
 
