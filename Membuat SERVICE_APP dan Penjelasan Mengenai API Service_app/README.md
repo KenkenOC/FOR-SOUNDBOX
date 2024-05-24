@@ -14,15 +14,15 @@
 
 - [**2.1 Membuat DocType**](#21-Membuat-DocType)
 
-### [3.0 Membuka VS Code di Dalam Aplikasi](#30-Membuka-VS-Code-di-Dalam-Aplikasi)
+### [3.0 Membuka VS Code di Dalam Aplikasi](#30-membuka-vs-code-di-dalam-aplikasi-1)
 
 - [**3.1 Membuka VS Code di Dalam Aplikasi**](#31-Membuka-VS-Code-di-Dalam-Aplikasi)
 
-### [4.0 Membuat File API Service](#40-Membuat-File-API-Service)
+### [4.0 Membuat File API Service](#40-membuat-file-api-service-1)
 
 ### [5.0 Penjelasan Mengenai File API Service_app](#50-Penjelasan-Mengenai-File-API-Service_app)
 
-- **5.1 Service**
+- [**5.1 Service**]()
 
 ---
 
