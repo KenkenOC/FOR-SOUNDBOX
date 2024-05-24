@@ -85,3 +85,22 @@ Untuk panduan membuat DocType, silakan lihat di [Set Up Frappe](https://github.c
 ### 3.0 Membuka VS Code di Dalam Aplikasi
 #### 3.1 Membuka VS Code di Dalam Aplikasi
 Untuk panduan membuka Vscode di dalam Aplikasi, silahkan lihat di [Membuka Vscode ke dalam Apps](https://github.com/KenkenOC/FOR-SOUNDBOX/tree/main/Membuka%20Vscode%20ke%20dalam%20Apps)
+
+### 4.0 Membuat File API Service
+       
+       /workspace/frappe-bench/apps/service_app/
+       ├── license.txt
+       ├── pyproject.toml
+       ├── README.md
+       ├── service
+       │ ├── pycache
+       │ ├── init.py
+       │ └── service.py
+       ├── config
+       ├── public
+       ├── templates
+       └── www
+
+### 5.0 Penjelasan Mengenai File API Service_app
+#### 5.1 Service 
+Di dalam File Service.py 
