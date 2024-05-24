@@ -103,4 +103,39 @@ Untuk panduan membuka Vscode di dalam Aplikasi, silahkan lihat di [Membuka Vscod
 
 ### 5.0 Penjelasan Mengenai File API Service_app
 #### 5.1 Service 
-Di dalam File Service.py 
+Di dalam File `Service.py` ada beberapa Def yang memiliki fungsi fungsi yang berbeda 
+
+- def `get_token()`
+  
+  Fungsi ini bertanggung jawab untuk menghasilkan token yang diperlukan untuk otentikasi saat melakukan permintaan ke API           eksternal. Token dihasilkan dengan menggunakan informasi seperti appId, timestamp, requestId, dan userCode, yang dikombinasikan   dengan app_secret dan dienkripsi menggunakan algoritma MD5. Token yang dihasilkan kemudian dikirimkan kembali untuk digunakan
+  dalam permintaan API.
+
+- def `fetch_api()`
+
+  Fungsi ini melakukan permintaan ke API eksternal untuk mendapatkan data berdasarkan parameter yang diberikan. Sebelum melakukan   permintaan, fungsi get_token() dipanggil untuk menghasilkan token yang valid. Setelah token diperoleh, fungsi membua
+  permintaan GET ke URL API tertentu dengan menyertakan token dan parameter lain yang diperlukan. Jika permintaan berhasil, data
+  yang diterima dari API akan disimpan dan dikembalikan dalam bentuk JSON.
+
+- def `receive_params()`
+
+  Fungsi ini bertanggung jawab untuk menerima parameter dari suatu permintaan dan memprosesnya. Pertama, fungsi fetch_api()
+  dipanggil untuk mengambil data dari API eksternal berdasarkan parameter yang diberikan. Kemudian, parameter-parameter tersebut
+  digunakan untuk membuat dokumen baru di dalam doctype "Transactions". Dokumen baru tersebut kemudian disimpan ke dalam database.
+  Selain itu, fungsi juga mencatat log transaksi baru dan log permintaan baru. Jika terjadi kesalahan selama proses, fungsi akan
+  menangani kesalahan tersebut dan mengembalikan pesan kesalahan.
+
+- def `new_transaction_logs()`
+
+  Fungsi ini digunakan untuk membuat log transaksi baru. Ketika sebuah transaksi dilakukan, fungsi ini membuat payload yang
+  berisi informasi transaksi, seperti referensi transaksi, nama toko, nama pelanggan, produk yang dibeli, jumlah, harga total,
+  dan status transaksi. Informasi ini kemudian digunakan untuk membuat dokumen baru di dalam doctype "Transaction Logs" dan
+  disimpan ke dalam database. Jika proses pembuatan log transaksi baru berhasil, fungsi akan mengembalikan pesan sukses.
+
+- def `new_request_logs()`
+
+  Fungsi ini bertanggung jawab untuk mencatat log permintaan baru. Ketika sebuah permintaan diterima, fungsi ini mencatat
+  informasi seperti URL permintaan, alamat IP pengirim permintaan, dan payload permintaan. Informasi ini kemudian digunakan untuk
+  membuat dokumen baru di dalam doctype "Request Logs" dan disimpan ke dalam database. Jika proses pencatatan log permintaan
+  berhasil, fungsi akan mengembalikan pesan sukses.
+  
+Ini adalah penjelasan dari fungsi-fungsi yang ada dalam file `service.py`. Semoga penjelasan ini membantu memahami fungsionalitas dan proses yang dilakukan oleh setiap fungsi.
