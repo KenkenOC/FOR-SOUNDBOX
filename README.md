@@ -26,7 +26,7 @@ Welcome to the documentation for PAYMENT & SERVICE SOUNDBOX.
 ## Membuat File API dan Penjelasan Mengenai API PAYMENT_APP
 
 <div style="border: 2px solid #FF9800; padding: 15px; border-radius: 10px; background-color: #fff7e6;">
-    <p>Untuk melihat cara membentuk File API dan penjelasan mengenai API Payment_app, silahkan kunjungi <a href="https://github.com/KenkenOC/FOR-SOUNDBOX/tree/main/Membuat%20file%20API%20dan%20Penjelasan%20mengenai%20API%20Payment_app" style="color: #FF9800; text-decoration: none;">Membuat file API dan Penjelasan mengenai API Payment_app</a></p>
+    <p>Untuk melihat cara membentuk File API dan penjelasan mengenai API `payment_app`, silahkan kunjungi <a href="https://github.com/KenkenOC/FOR-SOUNDBOX/tree/main/Membuat%20file%20API%20dan%20Penjelasan%20mengenai%20API%20Payment_app" style="color: #FF9800; text-decoration: none;">Membuat file API dan Penjelasan mengenai API Payment_app</a></p>
 </div>
 
 ---
