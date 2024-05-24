@@ -7,7 +7,21 @@
 
 
 ### 2.0 Membuat Doctype Yang Diperlukan Untuk Service 
+- **2.1 Masuk ke dalam Frappe UI**
+- **2.2 Masuk ke dalam Page Build**
+- **2.3 Click shortcut DocType**
+- **2.4 Click add DocType**
+- **2.5 Add new DocType**
+- **2.6 Setup Table**
+- **2.7 Menambahkan Role ke Doctype**
+
+### 3.0 Membuka Vscode ke dalam Apps
+- **3.1 Membuka Vscode ke dalam Apps**
+
+### 4.0 Membuat File API Service
+
+### 5.0 Penjelasan Mengenai File API Service_app 
+- **5.1 Service**
 
 
-### 3.0 
 
