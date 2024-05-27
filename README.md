@@ -8,7 +8,7 @@ Dokumen ini disusun untuk memberikan dokumentasi lengkap mengenai PAYMENT & SERV
 
 
 ### 🔧 **Persiapan & Instalasi Frappe**
-🔍 [Langkah-langkah Instalasi](https://github.com/KenkenOC/FOR-SOUNDBOX/tree/main/Persiapan%20&%20Instalasi%20Frappe)
+🔍 [Langkah-langkah Instalasi](https://github.com/KenkenOC/FOR-SOUNDBOX/tree/main/Set%20Up%20Frappe)
 
 ### 💻 **Membuka Vscode di dalam Aplikasi**
 🛠️ [Petunjuk Membuka Vscode](https://github.com/KenkenOC/FOR-SOUNDBOX/tree/main/Membuka%20Vscode%20di%20dalam%20Aplikasi)
