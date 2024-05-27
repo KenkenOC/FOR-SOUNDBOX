@@ -3,7 +3,7 @@
 ## **Dokumentasi API**
 
 ### 🎉 **Selamat Datang!**
-**PAYMENT & SERVICE SOUNDBOX** adalah platform yang dirancang untuk memberikan solusi lengkap dalam hal pembayaran dan layanan terkait. Dokumen ini disusun secara komprehensif untuk memberikan pemahaman yang jelas tentang fitur dan fungsi kami. Kami berharap informasi ini akan memudahkan Anda untuk mendapatkan semua yang Anda perlukan. Mari kita jelajahi informasi di bawah ini:
+**PAYMENT & SERVICE SOUNDBOX** merupakan dokumen yang dirancang untuk mendokumentasikan Soundbox Payment & Service. Di dalamnya, Anda akan menemukan penjelasan mendalam mengenai API yang telah saya buat. Dokumen ini disusun dengan tujuan menyediakan panduan yang lengkap dan jelas mengenai fungsionalitas, penggunaan, dan integrasi API Soundbox saya. Dengan informasi yang tersedia, saya berharap Anda dapat dengan mudah memahami semua fitur. Yuk, lanjutkan untuk mendapatkan wawasan yang lebih detail!
 
 
 ### 🔧 **Persiapan & Instalasi Frappe**
