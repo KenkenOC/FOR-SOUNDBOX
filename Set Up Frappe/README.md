@@ -73,9 +73,10 @@
 
 Masuk ke UI/Dashboard Frappe, Click Help-> About.
 > Di sini saya membuat app dengan *title Tutorial App* dengan branch dev
-![About](https://private-user-images.githubusercontent.com/76798963/314235901-6f13de67-95c5-428a-9f4c-f790b398da8e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYzNjM3NjksIm5iZiI6MTcxNjM2MzQ2OSwicGF0aCI6Ii83Njc5ODk2My8zMTQyMzU5MDEtNmYxM2RlNjctOTVjNS00MjhhLTlmNGMtZjc5MGIzOThkYThlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTIyVDA3Mzc0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiNjgxNjY4MWI2MjBkMjkzY2RiZTBhMTBkZWMxZTEyMzg0OWVhYTRlMDlmOTU3NzMxOTRiNWJlNGZjMWQ0ZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.tUARfQnwMUI1XpLKijBF6FpjG6rdVb06TtJR6D0g9qY)
+![image](https://github.com/KenkenOC/FOR-SOUNDBOX/assets/161264420/f6984551-061d-4fd8-bfaa-c5cda1161a02)
 
 Jika sudah begini berarti App sudah terinstall di Site 
+
 
 
 #### 2.0 Membuat Doctype di Frappe
@@ -84,17 +85,20 @@ Jika sudah begini berarti App sudah terinstall di Site
 Biasanya URL nya adalah: `http://site_kamu.local:8000` [http://site_kamu.local:8000](http://site_kamu.local:8000)
 
 ### 2.2 Masuk ke dalam Page Build
-![PAGE](https://private-user-images.githubusercontent.com/76798963/314231898-ead1fb19-d2b6-4be8-b15a-f43821ea2c37.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY3NzY5NjQsIm5iZiI6MTcxNjc3NjY2NCwicGF0aCI6Ii83Njc5ODk2My8zMTQyMzE4OTgtZWFkMWZiMTktZDJiNi00YmU4LWIxNWEtZjQzODIxZWEyYzM3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI3VDAyMjQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3ZDZhZjJiMmMyYWVmYjY5OWZkOWVjMGVhNzRlMDlmMDE5YjQzZGJlYmQzZjQwYTgyMGNjODA5M2Q2NDU1MWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4-bcQXA_XSEh22mHS79J1_oJJKFqqswLrM1dQs61LmY)
+![image](https://github.com/KenkenOC/FOR-SOUNDBOX/assets/161264420/081cb1e0-ed45-46e2-b931-260f6acf3124)
+
 
 ### 2.3 Click shortcut DocType
-![shortcut](https://private-user-images.githubusercontent.com/76798963/314232069-ae59597d-e7cf-4dd6-ab23-0c9d3c0908d3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY3NzY5NjQsIm5iZiI6MTcxNjc3NjY2NCwicGF0aCI6Ii83Njc5ODk2My8zMTQyMzIwNjktYWU1OTU5N2QtZTdjZi00ZGQ2LWFiMjMtMGM5ZDNjMDkwOGQzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI3VDAyMjQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmZGM0ZWY3N2MyNDMxOWVkZGFiZjEzYWM1MWJhMGMzN2Y5NWQyMzM0MDA4ZjI5YWI3MzEzOWYzN2Q1MjlhMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vyZYdjtKBG7uVy1ZkWwbjHvqEi722YYn81OB8XBZu-s)
+![image](https://github.com/KenkenOC/FOR-SOUNDBOX/assets/161264420/985cc9a1-2649-4d9f-bc9b-d622adffdd17)
+
 
 ### 2.4 Click add DocType
-![click](https://private-user-images.githubusercontent.com/76798963/314232200-59c816f0-e803-4112-8817-b628ffe94a65.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY3NzY5NjQsIm5iZiI6MTcxNjc3NjY2NCwicGF0aCI6Ii83Njc5ODk2My8zMTQyMzIyMDAtNTljODE2ZjAtZTgwMy00MTEyLTg4MTctYjYyOGZmZTk0YTY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI3VDAyMjQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZhNWQzZWM0OWI4M2EwYzFhM2FkMDEwM2ZkNmVkZjdhYzg2MGU3ZjU4OTY5OWI2YjJkNjlkOTM1YmY1Yjg2YjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.27rI8FxMIw-frT_2sYye12fsb9lRqLvSz-58-ezk2s8)
+![image](https://github.com/KenkenOC/FOR-SOUNDBOX/assets/161264420/f33ad04b-fbf1-4be2-841c-71694664c37a)
 
 
 ### 2.5 Add new DocType
-![new](https://private-user-images.githubusercontent.com/76798963/314237266-89cb531c-37ec-423f-8993-3ccfec74c0c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY3NzY5NjQsIm5iZiI6MTcxNjc3NjY2NCwicGF0aCI6Ii83Njc5ODk2My8zMTQyMzcyNjYtODljYjUzMWMtMzdlYy00MjNmLTg5OTMtM2NjZmVjNzRjMGM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI3VDAyMjQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhMmI4MjYyMDM3YjVjZWU4MDBhMzYwZjBmOGRjZDdhYmI2Y2UwY2Q4NTgzOWQzOTUxNjc0MTVmMDRkNGUzODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Y1zNsXCGXKCokfjMmJuAnAt9LMpgRukFiJ6HgMUHKW4)
+![image](https://github.com/KenkenOC/FOR-SOUNDBOX/assets/161264420/665e8a95-912e-4d23-be75-9eaa9f07718b)
+
 
 
 | Name           | Keterangan                                                                                     |
@@ -105,7 +109,8 @@ Biasanya URL nya adalah: `http://site_kamu.local:8000` [http://site_kamu.local:8
 Jika sudah click Create & Continue.
 
 ### 2.6 Setup Table
-![setup](https://github.com/Akiyaaaaaa/frappe/wiki/image/Build-Custom-Rest-HTTP-API/1710890016232.png)
+![image](https://github.com/KenkenOC/FOR-SOUNDBOX/assets/161264420/c3266f73-d205-46fc-bb68-29b32e49be5e)
+
 
 Add a new section > Add field > Data
 
